@@ -30,7 +30,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(632, 428)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "N4NO Security"
         Me.ResumeLayout(False)
 
     End Sub
