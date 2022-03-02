@@ -28,7 +28,7 @@ Partial Class SplashScreen
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.Security.My.Resources.Resources.cropped_Screenshot_2021_10_16_002505
+        Me.PictureBox1.Image = Global.Security.My.Resources.Resources.N4NO_Logo
         Me.PictureBox1.Location = New System.Drawing.Point(0, 0)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(499, 218)

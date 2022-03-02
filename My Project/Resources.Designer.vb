@@ -63,9 +63,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property cropped_Screenshot_2021_10_16_002505() As System.Drawing.Bitmap
+        Friend ReadOnly Property N4NO_Logo() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("cropped-Screenshot-2021-10-16-002505", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("N4NO Logo", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
