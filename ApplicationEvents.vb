@@ -23,7 +23,11 @@ Namespace My
     '   e.MinimumSplashScreenDisplayTime = 4000
     ' End Sub
 
+
     Partial Friend Class MyApplication
+        Private Sub ApplicationDefaults(sender As Object, e As ApplyApplicationDefaultsEventArgs) Handles Me.ApplyApplicationDefaults
+            e.MinimumSplashScreenDisplayTime = 2000
+        End Sub
 
     End Class
 End Namespace
